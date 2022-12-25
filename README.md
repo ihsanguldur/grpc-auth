@@ -1,1 +1,1 @@
-#grpc-auth
+GRPC-AUTH
